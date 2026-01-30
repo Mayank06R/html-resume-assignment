@@ -45,8 +45,9 @@ No setup required.
 
 ---
 
-## 📸 Screenshot
-![Resume Screenshot](screenshots/resume-page-full.png)
+## Screenshot
+![Resume Screenshot](127.0.0.1_8081_Resume.html.png)
+
 
 ---
 
